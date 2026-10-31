@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Borcea ionut
+Hi ! I'm ionut
 =====================================================================================================================================
 
 Game Developer
@@ -6,7 +6,7 @@ Game Developer
 
 "I am a Computer Science & Engineering student at UDJG (2nd Year). I code in C++, Java, and Python, with a focus on Software Engineering and Game Development. I previously explored accounting, but found my true passion in technology and software logic."
 
-* 🌍  I'm based in Matca
+* 🌍  I'm based in Romania
 * ✉️  You can contact me at [ionut.gamedev@gmail.com](mailto:ionut.gamedev@gmail.com)
 
 
