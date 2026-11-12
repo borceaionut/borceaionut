@@ -9,7 +9,7 @@
   <a href="https://borcea-ionut.itch.io/"><img src="https://img.shields.io/badge/itch.io-My%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
   <a href="https://www.linkedin.com/in/borcea-ionut-53bb82233"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@borceaionut2378"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="mailto:ionut.gamedev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:i.borcea33@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -21,7 +21,7 @@ I'm a Computer Science & Engineering student at **UDJG** (2nd year), focused on 
 - 🌍 Based in **Matca, Romania**
 - 🎮 I design, code and publish games on [itch.io](https://borcea-ionut.itch.io/)
 - 🌱 Currently learning: game architecture, design patterns, data structures & algorithms
-- 📫 Best way to reach me: [ionut.gamedev@gmail.com](mailto:ionut.gamedev@gmail.com)
+- 📫 Best way to reach me: [i.borcea33@gmail.com](mailto:i.borcea33@gmail.com)
 
 ---
 
@@ -53,4 +53,4 @@ My best work is pinned right below this README. You can also play my finished ga
 
 ## 🤝 Let's connect
 
-I'm always open to feedback, collaborations and internship opportunities in game development and software engineering. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/borcea-ionut-53bb82233) or by [email](mailto:ionut.gamedev@gmail.com).
+I'm always open to feedback, collaborations and internship opportunities in game development and software engineering. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/borcea-ionut-53bb82233) or by [email](mailto:i.borcea33@gmail.com).
