@@ -19,10 +19,14 @@ Game Developer
 
 ### Badges
 
-<a href="https://github.com" align="left"><img src="https://vercel.app" alt="Top Languages" /></a>
+<a href="https://github.com">
+  <img src="https://vercel.app" alt="Top Languages" />
+</a>
 
 <br/><br/>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/proiect-java-echipa" align="left"><img align="left" width="45%" src="https://vercel.app" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/proiect-java-echipa">
+  <img src="https://vercel.app" alt="Repositories per Language" />
+</a>
