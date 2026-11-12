@@ -6,7 +6,7 @@ Game Developer
 
 "I am a Computer Science & Engineering student at UDJG (2nd Year). I code in C++, Java, and Python, with a focus on Software Engineering and Game Development. I previously explored accounting, but found my true passion in technology and software logic."
 
-* 🌍  I'm based in Romania
+* 🌍  I'm based in Matca
 * ✉️  You can contact me at [ionut.gamedev@gmail.com](mailto:ionut.gamedev@gmail.com)
 
 
@@ -16,17 +16,10 @@ Game Developer
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 </p>
-
 ### Badges
 
-<a href="https://github.com">
-  <img src="https://vercel.app" alt="Top Languages" />
-</a>
-
-<br/><br/>
+<a href="https://github.com/borceaionut" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borceaionut&langs_count=10&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<a href="https://github.com/proiect-java-echipa">
-  <img src="https://vercel.app" alt="Repositories per Language" />
-</a>
+<div width="100%" align="center"><a href="https://github.com/borceaionut/Proiecte" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=borceaionut&repo=Proiecte&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
