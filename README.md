@@ -1,25 +1,66 @@
-Hi ! My name is Borcea ionut
-=====================================================================================================================================
+<h1 align="center">Hi, I'm Ionuț Borcea 👋</h1>
+<h3 align="center">Game Developer · Computer Science &amp; Engineering Student</h3>
 
-Game Developer
---------------
-
-"I am a Computer Science & Engineering student at UDJG (2nd Year). I code in C++, Java, and Python, with a focus on Software Engineering and Game Development. I previously explored accounting, but found my true passion in technology and software logic."
-
-* 🌍  I'm based in Matca
-* ✉️  You can contact me at [ionut.gamedev@gmail.com](mailto:ionut.gamedev@gmail.com)
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/borceaionut" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.youtube.com/@ionutborcea-r2v" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+<p align="center">
+  <a href="https://borcea-ionut.itch.io/"><img src="https://img.shields.io/badge/itch.io-Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
+  <a href="https://www.linkedin.com/in/borcea-ionut-53bb82233"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ionut.gamedev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.youtube.com/@borceaionut2378"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
-### Badges
 
-<a href="https://github.com/borceaionut" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borceaionut&langs_count=10&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+## 👨‍💻 About me
 
-<div width="100%" align="center"><a href="https://github.com/borceaionut/Proiecte" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=borceaionut&repo=Proiecte&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+I'm a Computer Science & Engineering student at **UDJG (2nd year)**. I code in **C++, Java and Python**, with a focus on **Software Engineering** and **Game Development**. I previously explored accounting, but found my real passion in technology and software logic.
+
+- 🌍 Based in **Matca, Romania**
+- 🎮 Building games and publishing them on [itch.io](https://borcea-ionut.itch.io/)
+- 📚 Currently learning: game architecture, design patterns, data structures & algorithms
+- 📫 Reach me at **[ionut.gamedev@gmail.com](mailto:ionut.gamedev@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=borceaionut&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borceaionut&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages">
+</p>
+
+<!--
+  If the two cards above ever appear broken (the free Vercel server is overloaded),
+  delete them and use the card generated by the GitHub Action instead (see workflow file):
+
+  <p align="center">
+    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="49%">
+    <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%">
+  </p>
+-->
+
+---
+
+## 📌 Featured Projects
+
+> My best repositories are pinned right below this README on my profile.
+
+🎮 Play my games: **[borcea-ionut.itch.io](https://borcea-ionut.itch.io/)**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=borceaionut&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
