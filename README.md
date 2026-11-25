@@ -1,56 +1,61 @@
-<h1 align="center">Hi, I'm Ionuț Borcea 👋</h1>
+<div align="center">
+  <img src="assets/hero.svg" width="100%" alt="Ionuț Borcea — Game Developer and Computer Science & Engineering student" />
+  <br>
+  <img src="assets/typing.svg" width="100%" alt="Building games. Writing clean code. Always learning." />
+  <br>
+  <a href="https://borcea-ionut.itch.io/"><img src="assets/link-games.svg" height="34" alt="Play my games on itch.io" /></a>
+  <a href="https://www.linkedin.com/in/borcea-ionut-53bb82233/"><img src="assets/link-linkedin.svg" height="34" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@borceaionut2378"><img src="assets/link-youtube.svg" height="34" alt="YouTube" /></a>
+  <a href="mailto:i.borcea33@gmail.com"><img src="assets/link-email.svg" height="34" alt="Email me" /></a>
+</div>
 
-<p align="center">
-  <b>Game Developer</b> · Computer Science &amp; Engineering Student<br>
-  Building games and clean, well-structured software.
-</p>
+<br>
 
-<p align="center">
-  <a href="https://borcea-ionut.itch.io/"><img src="https://img.shields.io/badge/itch.io-My%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
-  <a href="https://www.linkedin.com/in/borcea-ionut-53bb82233"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@borceaionut2378"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="mailto:i.borcea33@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+## About me
 
----
+Hey, I'm **Ionuț Borcea** — a Computer Science & Engineering student at **UDJG**, Romania, passionate about game development and software engineering.
 
-## 👨‍💻 About me
+I enjoy turning ideas into playable experiences, solving problems through code, and learning how to build software that's as clean under the hood as it is on the screen.
 
-I'm a Computer Science & Engineering student at **UDJG** (2nd year), focused on **Software Engineering** and **Game Development**. I started out exploring accounting, but I found my real passion in technology and software logic, and I've been building ever since.
+- 🎮 **Building:** games and personal software projects
+- 📚 **Learning:** game architecture, design patterns, data structures and algorithms
+- 🤝 **Open to:** internships, collaborations and feedback
 
-- 🌍 Based in **Matca, Romania**
-- 🎮 I design, code and publish games on [itch.io](https://borcea-ionut.itch.io/)
-- 🌱 Currently learning: game architecture, design patterns, data structures & algorithms
-- 📫 Best way to reach me: [i.borcea33@gmail.com](mailto:i.borcea33@gmail.com)
+## My toolkit
 
----
+<div align="center">
+  <img src="assets/toolkit.svg" width="100%" alt="Languages: C++, Java, Python. Developer tools: Git, GitHub, Visual Studio Code." />
+</div>
 
-## 🛠️ Tech Stack
+## Selected projects
 
-**Languages**
+| Project | What it's about | Explore |
+| :--- | :--- | :--- |
+| 🎮 **Game portfolio** | Games I design, develop and publish on itch.io | [Play →](https://borcea-ionut.itch.io/) |
+| 💻 **Proiecte** | A collection of academic and personal projects in C++, Java and Python | [View code →](https://github.com/borceaionut/Proiecte) |
+| ☕ **Java team project** | Collaborative Java development, object-oriented programming and software design | [View code →](https://github.com/borceaionut/proiect-java-echipa) |
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+## GitHub activity
 
-**Tools**
+<div align="center">
+  <img src="assets/metrics.svg" width="100%" alt="GitHub statistics: contributions, public repositories and active days in the last year" />
+  <img src="assets/languages.svg" width="100%" alt="Languages used in my public projects" />
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-</p>
+### Contribution snake
 
----
+<div align="center">
+  <img src="assets/snake.svg" width="100%" alt="Animated snake exploring my GitHub contribution calendar" />
+</div>
 
-## 🎮 Projects
+<sub>Activity cards are refreshed automatically by GitHub Actions. Language breakdown is based on public, non-fork project repositories, not proficiency.</sub>
 
-My best work is pinned right below this README. You can also play my finished games on **[itch.io](https://borcea-ionut.itch.io/)**.
+## Let's connect
 
----
+I'm always interested in meeting fellow developers and creating interesting things together.
 
-## 🤝 Let's connect
+**[Play my games](https://borcea-ionut.itch.io/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/borcea-ionut-53bb82233/)** · **[Get in touch](mailto:i.borcea33@gmail.com)**
 
-I'm always open to feedback, collaborations and internship opportunities in game development and software engineering. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/borcea-ionut-53bb82233) or by [email](mailto:i.borcea33@gmail.com).
+<div align="center">
+  <img src="assets/footer.svg" width="100%" alt="Build. Play. Learn. Repeat." />
+</div>
