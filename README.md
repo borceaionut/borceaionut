@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:e100ff,100:00d4ff&height=230&section=header&text=Salut,%20sunt%20Ionut!&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Game%20Developer%20%7C%20Gameplay%20Programmer%20%7C%20Indie%20Creator&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:e100ff,100:00d4ff&height=230&section=header&text=Salut,%20sunt%20Ionut!&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Game%20Developer%20%7C%20Godot%20%7C%20C%2B%2B%20%7C%20Python&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/borceaionut"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=640&lines=Construiesc+lumi,+nu+doar+cod;Gameplay,+shadere+si+multa+cafea;Unity+%7C+Unreal+%7C+Godot;Press+START+to+collaborate" alt="Typing SVG" /></a>
+<a href="https://github.com/borceaionut"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=640&lines=Construiesc+jocuri+in+Godot;Programare+in+C,+C%2B%2B,+Java+si+Python;Pasionat+de+Linux+si+open+source;Press+START+to+collaborate" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -17,27 +17,29 @@
 | | |
 |---|---|
 | 🎮 **Clasă** | Game Developer |
-| 🔭 **Misiune curentă** | Primul meu joc complet |
-| 🌱 **Învăț acum** | Shaders, Unreal Engine, C++ |
+| 🔭 **Misiune curentă** | Primul meu joc în Godot |
+| 🌱 **Învăț acum** | Game development, C++ și Godot |
+| 💻 **Sistem** | Linux 🐧 |
 | 📍 **Bază** | Galați, România 🇷🇴 |
 | 👯 **Caut** | Echipe de game jam și colaborări |
 
-## ▶ STATISTICI DE SKILL
+## ▶ SKILL-URI
 
 ```text
-Gameplay      ██████████████████░░  92%
-Unity / C#    ██████████████████░░  90%
-C++           ███████████████░░░░░  75%
-Level design  ██████████████░░░░░░  70%
-Shadere       ███████████░░░░░░░░░  58%
-Unreal        ███████████░░░░░░░░░  55%
+Python   ██████████████░░░░░░  70%
+Godot    ████████████░░░░░░░░  60%
+C        ████████████░░░░░░░░  60%
+C++      ███████████░░░░░░░░░  55%
+Java     ███████████░░░░░░░░░  55%
+Git      ████████████░░░░░░░░  60%
+Linux    ██████████░░░░░░░░░░  50%
 ```
 
 ## ▶ INVENTAR
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,godot,unreal,blender,py,git,github,visualstudio,figma,photoshop&theme=dark" alt="tehnologii" />
+<img src="https://skillicons.dev/icons?i=godot,cpp,c,py,java,git,github,vscode,linux&theme=dark" alt="tehnologii" />
 
 </div>
 
