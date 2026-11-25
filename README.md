@@ -38,7 +38,7 @@ I enjoy turning ideas into playable experiences, solving problems through code, 
 ## GitHub activity
 
 <div align="center">
-  <img src="./ionut-metrics.png" width="100%" alt="GitHub statistics: contributions, public repositories and active days in the last year" />
+  <img src="./ionut-metrics.svg" width="100%" alt="GitHub statistics: contributions, public repositories and active days in the last year" />
   <img src="./ionut-languages.svg" width="100%" alt="Core languages: C++, Java and Python" />
 </div>
 
@@ -48,7 +48,7 @@ I enjoy turning ideas into playable experiences, solving problems through code, 
   <img src="./ionut-snake.svg" width="100%" alt="Animated snake exploring my GitHub contribution calendar" />
 </div>
 
-<sub>Activity snapshot from 25 November 2026.</sub>
+<sub>Updated automatically from GitHub. Language shares are measured by code size in my public non-fork projects, excluding this profile repository.</sub>
 
 ## Let's connect
 
