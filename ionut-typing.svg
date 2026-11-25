@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="58" viewBox="0 0 1120 58" role="img" aria-label="Build games. Write clean code. Always learn.">
+  <defs><clipPath id="reveal"><rect x="0" y="0" width="640" height="58"><animate attributeName="width" values="0;0;640;640;640" keyTimes="0;.04;.6;.92;1" dur="8s" repeatCount="indefinite"/></rect></clipPath></defs>
+  <rect x=".75" y="7.75" width="1118.5" height="42.5" rx="8" fill="#101a2b" stroke="#34425f"/>
+  <g transform="translate(233 0)">
+    <g clip-path="url(#reveal)" font-family="monospace" font-size="22" font-weight="bold">
+      <text x="0" y="36" fill="#58cce2">&gt; BUILD GAMES.</text>
+      <text x="192" y="36" fill="#8192b8">WRITE CLEAN CODE.</text>
+      <text x="427" y="36" fill="#a294ff">ALWAYS LEARN.</text>
+    </g>
+    <path d="M638 16V39" stroke="#64ddec" stroke-width="2"><animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="-638 0;-638 0;0 0;0 0;0 0" keyTimes="0;.04;.6;.92;1" dur="8s" repeatCount="indefinite"/></path>
+  </g>
+</svg>

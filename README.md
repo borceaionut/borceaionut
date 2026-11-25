@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Ionuț Borcea — Game Developer and Computer Science & Engineering student" />
+  <img src="./ionut-banner.png" width="100%" alt="Ionuț Borcea — Game Developer and Computer Science & Engineering student" />
   <br>
-  <img src="assets/typing.svg" width="100%" alt="Building games. Writing clean code. Always learning." />
+  <img src="./ionut-typing.svg" width="100%" alt="Building games. Writing clean code. Always learning." />
   <br>
-  <a href="https://borcea-ionut.itch.io/"><img src="assets/link-games.svg" height="34" alt="Play my games on itch.io" /></a>
-  <a href="https://www.linkedin.com/in/borcea-ionut-53bb82233/"><img src="assets/link-linkedin.svg" height="34" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@borceaionut2378"><img src="assets/link-youtube.svg" height="34" alt="YouTube" /></a>
-  <a href="mailto:i.borcea33@gmail.com"><img src="assets/link-email.svg" height="34" alt="Email me" /></a>
+  <a href="https://borcea-ionut.itch.io/"><img src="./ionut-link-games.png" height="34" alt="Play my games on itch.io" /></a>
+  <a href="https://www.linkedin.com/in/borcea-ionut-53bb82233/"><img src="./ionut-link-linkedin.png" height="34" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@borceaionut2378"><img src="./ionut-link-youtube.png" height="34" alt="YouTube" /></a>
+  <a href="mailto:i.borcea33@gmail.com"><img src="./ionut-link-email.png" height="34" alt="Email me" /></a>
 </div>
 
 <br>
@@ -24,7 +24,7 @@ I enjoy turning ideas into playable experiences, solving problems through code, 
 ## My toolkit
 
 <div align="center">
-  <img src="assets/toolkit.svg" width="100%" alt="Languages: C++, Java, Python. Developer tools: Git, GitHub, Visual Studio Code." />
+  <img src="./ionut-toolkit.png" width="100%" alt="Languages: C++, Java, Python. Developer tools: Git, GitHub, Visual Studio Code." />
 </div>
 
 ## Selected projects
@@ -38,17 +38,17 @@ I enjoy turning ideas into playable experiences, solving problems through code, 
 ## GitHub activity
 
 <div align="center">
-  <img src="assets/metrics.svg" width="100%" alt="GitHub statistics: contributions, public repositories and active days in the last year" />
-  <img src="assets/languages.svg" width="100%" alt="Languages used in my public projects" />
+  <img src="./ionut-metrics.png" width="100%" alt="GitHub statistics: contributions, public repositories and active days in the last year" />
+  <img src="./ionut-languages.svg" width="100%" alt="Core languages: C++, Java and Python" />
 </div>
 
 ### Contribution snake
 
 <div align="center">
-  <img src="assets/snake.svg" width="100%" alt="Animated snake exploring my GitHub contribution calendar" />
+  <img src="./ionut-snake.svg" width="100%" alt="Animated snake exploring my GitHub contribution calendar" />
 </div>
 
-<sub>Activity cards are refreshed automatically by GitHub Actions. Language breakdown is based on public, non-fork project repositories, not proficiency.</sub>
+<sub>Activity snapshot from 25 November 2026.</sub>
 
 ## Let's connect
 
@@ -57,5 +57,5 @@ I'm always interested in meeting fellow developers and creating interesting thin
 **[Play my games](https://borcea-ionut.itch.io/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/borcea-ionut-53bb82233/)** · **[Get in touch](mailto:i.borcea33@gmail.com)**
 
 <div align="center">
-  <img src="assets/footer.svg" width="100%" alt="Build. Play. Learn. Repeat." />
+  <img src="./ionut-footer.png" width="100%" alt="Build. Play. Learn. Repeat." />
 </div>
