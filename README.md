@@ -1,19 +1,30 @@
-[![Ionuț Borcea · Game developer · Play my games on itch.io](./assets/arcade.png)](https://borcea-ionut.itch.io/)
+[![Ionuț Borcea · Game developer. Play my games on itch.io.](./assets/arcade.png)](https://borcea-ionut.itch.io/)
 
-# Hey, I’m Ionuț 👋
+# Salut! I’m Ionuț 👋
 
-I’m a game developer from **Matca, Romania**, studying Computer Science & Engineering at **UDJG**. I started out exploring accounting and found I was more interested in writing the logic myself. These days I design, code, and publish games.
+I design, code, and publish games from **Matca, Romania**. I started out exploring accounting, but what hooked me was figuring out the logic behind things. Now I study **Computer Science & Engineering at UDJG** and build games you can play.
 
-**[▶ Play my games on itch.io](https://borcea-ionut.itch.io/)** · You’ll find my pinned code projects just below this README.
+**[🎮 Pick a game on itch.io ↗](https://borcea-ionut.itch.io/)** · If you’d like to explore the code, start with the pinned repositories below.
 
-### Under the hood
+## 🛠️ My toolkit
 
-I work with **C++**, **Java**, and **Python**. Lately I’ve been exploring game architecture and design patterns, especially how to keep game logic easy to change as a project grows. I’m also studying data structures and algorithms.
+<p>
+  <img src="./assets/cpp.png" width="100" alt="C++">
+  <img src="./assets/java.png" width="100" alt="Java">
+  <img src="./assets/python.png" width="100" alt="Python">
+  <img src="./assets/git.png" width="100" alt="Git">
+  <img src="./assets/github.png" width="100" alt="GitHub">
+  <img src="./assets/vscode.png" width="100" alt="VS Code">
+</p>
 
-`Git` · `GitHub` · `VS Code`
+One question I keep coming back to is **how do you change one game mechanic without breaking three others?** That’s what draws me to game architecture and design patterns. I’m also digging into data structures and algorithms.
 
-### Get in touch
+## 💬 Say hello
 
-Played one of my games? I’d love to hear which part stuck with you. I’m also open to collaborations and internships in game development or software engineering.
+If you play one of my games, tell me which moment made you want to try again. I’d also love to hear about collaborations and internship opportunities in game development or software engineering.
 
-[Email me](mailto:i.borcea33@gmail.com) · [LinkedIn](https://www.linkedin.com/in/borcea-ionut-53bb82233) · [YouTube](https://www.youtube.com/@borceaionut2378)
+<p>
+  <a href="https://www.youtube.com/@borceaionut2378"><img src="./assets/youtube.png" width="187" alt="YouTube · Visit my channel"></a>
+  <a href="https://www.linkedin.com/in/borcea-ionut-53bb82233"><img src="./assets/linkedin.png" width="187" alt="LinkedIn · Connect with me"></a>
+  <a href="mailto:i.borcea33@gmail.com"><img src="./assets/email.png" width="187" alt="Email · Contact Ionuț Borcea"></a>
+</p>
