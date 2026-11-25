@@ -1,56 +1,76 @@
-<h1 align="center">Hi, I'm Ionuț Borcea 👋</h1>
+Preview aproximativ. Pe GitHub, cardurile se încarcă live cu datele tale reale.
 
-<p align="center">
-  <b>Game Developer</b> · Computer Science &amp; Engineering Student<br>
-  Building games and clean, well-structured software.
-</p>
+borceaionut / **README.md**
 
-<p align="center">
-  <a href="https://borcea-ionut.itch.io/"><img src="https://img.shields.io/badge/itch.io-My%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
-  <a href="https://www.linkedin.com/in/borcea-ionut-53bb82233"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@borceaionut2378"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="mailto:i.borcea33@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+# > Salut, sunt Ionuț\_
 
----
+Game Developer · Gameplay Programmer · Indie Creator
 
-## 👨‍💻 About me
+Vizite profil*1,284* Followers*256* Status*Player 1 online*
 
-I'm a Computer Science & Engineering student at **UDJG** (2nd year), focused on **Software Engineering** and **Game Development**. I started out exploring accounting, but I found my real passion in technology and software logic, and I've been building ever since.
+## ▶ PLAYER CARD
 
-- 🌍 Based in **Matca, Romania**
-- 🎮 I design, code and publish games on [itch.io](https://borcea-ionut.itch.io/)
-- 🌱 Currently learning: game architecture, design patterns, data structures & algorithms
-- 📫 Best way to reach me: [i.borcea33@gmail.com](mailto:i.borcea33@gmail.com)
+Clasă🎮 Game Developer
 
----
+Nivel⭐ Lvl. 24 · mereu în creștere
 
-## 🛠️ Tech Stack
+Misiune curentă🔭 Primul meu joc complet, pe Steam
 
-**Languages**
+Învăț acum🌱 Shaders, Unreal Engine, C++
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+Bază📍 Galați, România 🇷🇴
 
-**Tools**
+Caut👯 Echipe de game jam și colaborări
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-</p>
+## ▶ STATISTICI DE SKILL
 
----
+## ▶ INVENTAR
 
-## 🎮 Projects
+## ▶ QUEST LOG · PROIECTE
 
-My best work is pinned right below this README. You can also play my finished games on **[itch.io](https://borcea-ionut.itch.io/)**.
+| Joc | Descriere | Engine | Status |
+| --- | --- | --- | --- |
+| [pixel-dungeon-rush](#) | Roguelike 2D cu generare procedurală de nivele | Unity · C# | PLAYABLE |
+| [neon-racer](#) | Joc arcade de curse cu fizică personalizată | Godot · GDScript | ÎN LUCRU |
+| [space-defender](#) | Shooter 3D cu inamici controlați de AI | Unreal · C++ | PROTOTIP |
+| [game-jam-2026](#) | Joc creat în 48 de ore la un game jam | Unity · C# | PLAYABLE |
 
----
+## ▶ ACHIEVEMENTS
 
-## 🤝 Let's connect
+## ▶ STATISTICI GITHUB
 
-I'm always open to feedback, collaborations and internship opportunities in game development and software engineering. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/borcea-ionut-53bb82233) or by [email](mailto:i.borcea33@gmail.com).
+#### Statisticile lui Ionuț
+
+⭐ Total stele**342**
+
+🕘 Commit-uri (2026)**1,208**
+
+🔀 Total PR-uri**87**
+
+🐞 Total issues**41**
+
+#### Limbaje
+
+C#**46%**
+
+C++**24%**
+
+GDScript**14%**
+
+HLSL / GLSL**9%**
+
+Python**7%**
+
+**412**Contribuții
+
+**23**Streak curent
+
+**61**Cel mai lung
+
+#### Graficul contribuțiilor
+
+## ▶ MULTIPLAYER · CONTACT
+
+itch.ioYouTubeDiscordLinkedInEmail
+
+🕹️ „Game over” e doar o șansă să începi din nou.
