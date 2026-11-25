@@ -25,6 +25,7 @@ If you play one of my games, tell me which moment made you want to try again. I�
 
 <p>
   <a href="https://www.youtube.com/@borceaionut2378"><img src="./assets/youtube.png" width="187" alt="YouTube · Visit my channel"></a>
+    <a href="https://www.instagram.com/i.borcea33/"><img src="./assets/instagram.png" width="187" alt="Instagram · @i.borcea33"></a>
   <a href="https://www.linkedin.com/in/borcea-ionut-53bb82233"><img src="./assets/linkedin.png" width="187" alt="LinkedIn · Connect with me"></a>
   <a href="mailto:i.borcea33@gmail.com"><img src="./assets/email.png" width="187" alt="Email · Contact Ionuț Borcea"></a>
 </p>
