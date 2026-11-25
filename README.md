@@ -1,76 +1,67 @@
-Preview aproximativ. Pe GitHub, cardurile se încarcă live cu datele tale reale.
+<div align="center">
 
-borceaionut / **README.md**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:e100ff,100:00d4ff&height=230&section=header&text=Salut,%20sunt%20Ionut!&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Game%20Developer%20%7C%20Gameplay%20Programmer%20%7C%20Indie%20Creator&descAlignY=58&descSize=18" width="100%"/>
 
-# > Salut, sunt Ionuț\_
+<a href="https://github.com/borceaionut"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=640&lines=Construiesc+lumi,+nu+doar+cod;Gameplay,+shadere+si+multa+cafea;Unity+%7C+Unreal+%7C+Godot;Press+START+to+collaborate" alt="Typing SVG" /></a>
 
-Game Developer · Gameplay Programmer · Indie Creator
+<br/>
 
-Vizite profil*1,284* Followers*256* Status*Player 1 online*
+<img src="https://komarev.com/ghpvc/?username=borceaionut&label=Vizite+profil&color=ff2e97&style=flat-square" alt="vizite"/>
+<img src="https://img.shields.io/github/followers/borceaionut?label=Followers&style=flat-square&color=00a8cc" alt="followers"/>
+<img src="https://img.shields.io/badge/Status-Player%201%20online-2ea44f?style=flat-square" alt="status"/>
+
+</div>
 
 ## ▶ PLAYER CARD
 
-Clasă🎮 Game Developer
-
-Nivel⭐ Lvl. 24 · mereu în creștere
-
-Misiune curentă🔭 Primul meu joc complet, pe Steam
-
-Învăț acum🌱 Shaders, Unreal Engine, C++
-
-Bază📍 Galați, România 🇷🇴
-
-Caut👯 Echipe de game jam și colaborări
+| | |
+|---|---|
+| 🎮 **Clasă** | Game Developer |
+| 🔭 **Misiune curentă** | Primul meu joc complet |
+| 🌱 **Învăț acum** | Shaders, Unreal Engine, C++ |
+| 📍 **Bază** | Galați, România 🇷🇴 |
+| 👯 **Caut** | Echipe de game jam și colaborări |
 
 ## ▶ STATISTICI DE SKILL
 
+```text
+Gameplay      ██████████████████░░  92%
+Unity / C#    ██████████████████░░  90%
+C++           ███████████████░░░░░  75%
+Level design  ██████████████░░░░░░  70%
+Shadere       ███████████░░░░░░░░░  58%
+Unreal        ███████████░░░░░░░░░  55%
+```
+
 ## ▶ INVENTAR
 
-## ▶ QUEST LOG · PROIECTE
+<div align="center">
 
-| Joc | Descriere | Engine | Status |
-| --- | --- | --- | --- |
-| [pixel-dungeon-rush](#) | Roguelike 2D cu generare procedurală de nivele | Unity · C# | PLAYABLE |
-| [neon-racer](#) | Joc arcade de curse cu fizică personalizată | Godot · GDScript | ÎN LUCRU |
-| [space-defender](#) | Shooter 3D cu inamici controlați de AI | Unreal · C++ | PROTOTIP |
-| [game-jam-2026](#) | Joc creat în 48 de ore la un game jam | Unity · C# | PLAYABLE |
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,godot,unreal,blender,py,git,github,visualstudio,figma,photoshop&theme=dark" alt="tehnologii" />
 
-## ▶ ACHIEVEMENTS
+</div>
 
 ## ▶ STATISTICI GITHUB
 
-#### Statisticile lui Ionuț
+<div align="center">
 
-⭐ Total stele**342**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=borceaionut&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borceaionut&layout=compact&theme=radical&hide_border=true" alt="limbaje" />
 
-🕘 Commit-uri (2026)**1,208**
+<img src="https://streak-stats.demolab.com?user=borceaionut&theme=radical&hide_border=true" alt="streak" />
 
-🔀 Total PR-uri**87**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=borceaionut&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff2e97&line=00d4ff&point=ffffff" width="100%" alt="activitate" />
 
-🐞 Total issues**41**
+</div>
 
-#### Limbaje
+## ▶ CONTACT
 
-C#**46%**
+<div align="center">
 
-C++**24%**
+<a href="https://github.com/borceaionut"><img src="https://img.shields.io/badge/GitHub-borceaionut-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-GDScript**14%**
+🕹️ *„Game over” e doar o șansă să începi din nou.*
 
-HLSL / GLSL**9%**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:e100ff,100:7f00ff&height=120&section=footer" width="100%"/>
 
-Python**7%**
-
-**412**Contribuții
-
-**23**Streak curent
-
-**61**Cel mai lung
-
-#### Graficul contribuțiilor
-
-## ▶ MULTIPLAYER · CONTACT
-
-itch.ioYouTubeDiscordLinkedInEmail
-
-🕹️ „Game over” e doar o șansă să începi din nou.
+</div>
