@@ -9,7 +9,7 @@ I'm a Computer Science & Engineering student at **UDJG** (2nd year), focused on 
 ## 🛠️ My toolkit
 
 <p>
-  <img src="./assets/cpp.png" width="100" alt="C++">
+  <img src="https://www.geeksforgeeks.org/cpp/c-plus-plus/" width="100" alt="C++">
   <img src="./assets/java.png" width="100" alt="Java">
   <img src="./assets/python.png" width="100" alt="Python">
   <img src="./assets/git.png" width="100" alt="Git">
