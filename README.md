@@ -1,61 +1,56 @@
-<div align="center">
+<h1 align="center">Hi, I'm Ionuț Borcea 👋</h1>
 
-# Nume Prenume
+<p align="center">
+  <b>Game Developer</b> · Computer Science &amp; Engineering Student<br>
+  Building games and clean, well-structured software.
+</p>
 
-**Software Engineer** · Backend & Cloud · Galați, România
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nume%20Prenume-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Email](https://img.shields.io/badge/Email-contact@exemplu.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@exemplu.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-tudomeniu.ro-24292F?style=flat-square&logo=googlechrome&logoColor=white)](https://tudomeniu.ro)
-![Disponibilitate](https://img.shields.io/badge/Disponibilitate-deschis%20la%20oportunit%C4%83%C8%9Bi-2EA44F?style=flat-square)
-
-</div>
+<p align="center">
+  <a href="https://borcea-ionut.itch.io/"><img src="https://img.shields.io/badge/itch.io-My%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
+  <a href="https://www.linkedin.com/in/borcea-ionut-53bb82233"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@borceaionut2378"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:i.borcea33@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-### Despre mine
+## 👨‍💻 About me
 
-Sunt inginer software cu peste 5 ani de experiență în construirea de servicii backend scalabile și infrastructură cloud. Mă concentrez pe cod curat, testabil și pe soluții care rezolvă probleme reale de business. Contribui la proiecte open source și îmi place să împărtășesc ce învăț.
+I'm a Computer Science & Engineering student at **UDJG** (2nd year), focused on **Software Engineering** and **Game Development**. I started out exploring accounting, but I found my real passion in technology and software logic, and I've been building ever since.
 
-### Domenii de expertiză
+- 🌍 Based in **Matca, Romania**
+- 🎮 I design, code and publish games on [itch.io](https://borcea-ionut.itch.io/)
+- 🌱 Currently learning: game architecture, design patterns, data structures & algorithms
+- 📫 Best way to reach me: [i.borcea33@gmail.com](mailto:i.borcea33@gmail.com)
 
-| Domeniu | Detalii |
-|---|---|
-| **Backend** | API-uri REST și GraphQL, microservicii, arhitectură orientată pe evenimente |
-| **Cloud & DevOps** | AWS, Docker, Kubernetes, CI/CD, Infrastructure as Code |
-| **Frontend** | React, TypeScript, design systems, performanță web |
-| **Date** | PostgreSQL, Redis, modelare și optimizare de interogări |
+---
 
-### Stack tehnic
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Languages**
 
-### Proiecte selectate
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
 
-| Proiect | Descriere | Tehnologii |
-|---|---|---|
-| [proiect-1](https://github.com/USERNAME/proiect-1) | Platformă API pentru gestionarea comenzilor, cu autentificare și rate limiting | Node.js, PostgreSQL |
-| [proiect-2](https://github.com/USERNAME/proiect-2) | Dashboard analitic în timp real pentru monitorizarea metricilor | React, TypeScript |
-| [proiect-3](https://github.com/USERNAME/proiect-3) | Instrument CLI pentru automatizarea deploy-urilor | Python, Docker |
+**Tools**
 
-### Activitate GitHub
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
 
-<div align="center">
+---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=8b949e&icon_color=2f81f7&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=8b949e" />
+## 🎮 Projects
 
-</div>
+My best work is pinned right below this README. You can also play my finished games on **[itch.io](https://borcea-ionut.itch.io/)**.
 
-### Contact
+---
 
-Mă poți găsi pe [LinkedIn](https://linkedin.com/in/USERNAME) sau îmi poți scrie la [contact@exemplu.com](mailto:contact@exemplu.com). Răspund de obicei în 24 de ore.
+## 🤝 Let's connect
+
+I'm always open to feedback, collaborations and internship opportunities in game development and software engineering. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/borcea-ionut-53bb82233) or by [email](mailto:i.borcea33@gmail.com).
