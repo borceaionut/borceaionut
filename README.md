@@ -2,7 +2,7 @@
 
 # Salut! I’m Ionuț 👋
 
-I design, code, and publish games from **Matca, Romania**. I started out exploring accounting, but what hooked me was figuring out the logic behind things. Now I study **Computer Science & Engineering at UDJG** and build games you can play.
+I'm a Computer Science & Engineering student at **UDJG** (2nd year), focused on **Software Engineering** and **Game Development**. I started out exploring accounting, but I found my real passion in technology and software logic, and I've been building ever since.
 
 **[🎮 Pick a game on itch.io ↗](https://borcea-ionut.itch.io/)** · If you’d like to explore the code, start with the pinned repositories below.
 
