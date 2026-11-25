@@ -1,93 +1,61 @@
-<!-- HEADER ANIMAT -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Salut,%20sunt%20NUME!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Mereu%20în%20învățare&descAlignY=58&descSize=18" width="100%"/>
+# Nume Prenume
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Construiesc+lucruri+cool+cu+cod;Pasionat+de+open+source;Transform+ideile+în+aplicații;Cafea+%E2%86%92+Cod+%E2%86%92+Repeat" alt="Typing SVG" />
-</a>
+**Software Engineer** · Backend & Cloud · Galați, România
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Vizite+profil&color=0e75b6&style=flat-square" alt="vizite"/>
-<img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=0e75b6" alt="followers"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nume%20Prenume-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![Email](https://img.shields.io/badge/Email-contact@exemplu.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@exemplu.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tudomeniu.ro-24292F?style=flat-square&logo=googlechrome&logoColor=white)](https://tudomeniu.ro)
+![Disponibilitate](https://img.shields.io/badge/Disponibilitate-deschis%20la%20oportunit%C4%83%C8%9Bi-2EA44F?style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 Despre mine
+### Despre mine
 
-- 🔭 Lucrez acum la **numele proiectului tău**
-- 🌱 Învăț în prezent **Rust / TypeScript / Cloud**
-- 👯 Caut colaboratori la **proiecte open source**
-- 💬 Întreabă-mă despre **React, Python, DevOps**
-- 📍 Locuiesc în **Galați, România** 🇷🇴
-- ⚡ Fun fact: **scrie aici ceva amuzant despre tine**
+Sunt inginer software cu peste 5 ani de experiență în construirea de servicii backend scalabile și infrastructură cloud. Mă concentrez pe cod curat, testabil și pe soluții care rezolvă probleme reale de business. Contribui la proiecte open source și îmi place să împărtășesc ce învăț.
 
----
+### Domenii de expertiză
 
-## 🛠️ Tehnologii
+| Domeniu | Detalii |
+|---|---|
+| **Backend** | API-uri REST și GraphQL, microservicii, arhitectură orientată pe evenimente |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, CI/CD, Infrastructure as Code |
+| **Frontend** | React, TypeScript, design systems, performanță web |
+| **Date** | PostgreSQL, Redis, modelare și optimizare de interogări |
 
-<div align="center">
+### Stack tehnic
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,tailwind,git,github,docker,linux,postgres,mongodb,vscode&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</div>
+### Proiecte selectate
 
----
+| Proiect | Descriere | Tehnologii |
+|---|---|---|
+| [proiect-1](https://github.com/USERNAME/proiect-1) | Platformă API pentru gestionarea comenzilor, cu autentificare și rate limiting | Node.js, PostgreSQL |
+| [proiect-2](https://github.com/USERNAME/proiect-2) | Dashboard analitic în timp real pentru monitorizarea metricilor | React, TypeScript |
+| [proiect-3](https://github.com/USERNAME/proiect-3) | Instrument CLI pentru automatizarea deploy-urilor | Python, Docker |
 
-## 📊 Statistici GitHub
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Realizări
+### Activitate GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=8b949e&icon_color=2f81f7&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=8b949e" />
 
 </div>
 
----
+### Contact
 
-## 📌 Proiecte favorite
-
-<div align="center">
-
-<a href="https://github.com/USERNAME/proiect-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=proiect-1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/USERNAME/proiect-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=proiect-2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 🤝 Hai să ținem legătura
-
-<div align="center">
-
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:email@exemplu.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://tudomeniu.ro"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
-</div>
+Mă poți găsi pe [LinkedIn](https://linkedin.com/in/USERNAME) sau îmi poți scrie la [contact@exemplu.com](mailto:contact@exemplu.com). Răspund de obicei în 24 de ore.
